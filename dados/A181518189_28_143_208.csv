@@ -1,0 +1,50 @@
+TUBERCULOSE - Casos confirmados notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por UF de notificação e Ano Diagnóstico
+Período:2009-2018
+"UF de notificação";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"Total"
+"11 Rondônia";680;572;685;692;711;686;665;775;780;678;6924
+"12 Acre";364;347;392;409;406;462;361;450;484;483;4158
+"13 Amazonas";2606;2764;2686;2842;3060;3143;3404;3259;3693;3803;31260
+"14 Roraima";145;152;171;137;167;148;174;160;205;265;1724
+"15 Pará";4106;4104;4334;4048;4119;3940;3991;4224;4511;4678;42055
+"16 Amapá";253;221;259;253;220;211;225;287;298;284;2511
+"17 Tocantins";223;216;215;185;194;186;193;210;187;233;2042
+"21 Maranhão";2462;2414;2505;2185;2278;2111;2238;2442;2469;2647;23751
+"22 Piauí";1108;994;1002;921;908;813;754;812;791;884;8987
+"23 Ceará";4664;4315;4398;4236;4052;3879;4012;4045;4289;4555;42445
+"24 Rio Grande do Norte";1185;1109;1269;1208;1273;1187;1156;1182;1354;1624;12547
+"25 Paraíba";1320;1327;1413;1426;1429;1312;1250;1215;1360;1542;13594
+"26 Pernambuco";5028;5175;5390;5696;5420;5443;5649;5513;6378;6491;56183
+"27 Alagoas";1448;1368;1327;1358;1324;1245;1068;1236;1264;1340;12978
+"28 Sergipe";686;630;669;617;710;788;771;800;832;978;7481
+"29 Bahia";6971;6521;6412;6082;5679;5612;5304;5300;5498;5667;59046
+"31 Minas Gerais";4851;4443;4626;4257;4200;4193;4055;4073;4064;4224;42986
+"32 Espírito Santo";1427;1478;1450;1461;1384;1314;1395;1238;1324;1484;13955
+"33 Rio de Janeiro";14390;14241;14331;14018;13349;13095;13367;13645;13927;14819;139182
+"35 São Paulo";17828;18213;19083;18676;19530;19976;20376;20587;22119;22258;198646
+"41 Paraná";2808;2770;2722;2534;2650;2554;2466;2436;2501;2860;26301
+"42 Santa Catarina";2002;2070;2218;2229;2268;2248;2180;2199;2228;2282;21924
+"43 Rio Grande do Sul";6100;6180;6360;6405;6348;6372;6380;6043;6599;6908;63695
+"50 Mato Grosso do Sul";1044;943;1047;1091;1098;998;1003;1130;1140;1455;10949
+"51 Mato Grosso";1158;1368;1371;1605;1886;1794;1442;1456;1430;1414;14924
+"52 Goiás";1012;1016;989;1058;1072;991;1095;1027;1163;1212;10635
+"53 Distrito Federal";449;430;489;554;473;512;478;463;413;471;4732
+"Total";86318;85381;87813;86183;86208;85213;85452;86207;91301;95539;875615
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos os registros encerrados com mudança de diagnóstico.
+ Períodos disponíveis - Correspondem aos anos de diagnóstico dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse, e na coluna a variável “Ano do diagnóstico”; em “Períodos Disponíveis” assinale o ano inicial da série e todos os posteriores até o ano atual (para
+ Para cálculo da incidência selecione o local de residência e as seguintes categorias da variável “Tipo de entrada”: caso novo, não sabe e pós óbito.
+ A variável “Beneficiário de programa de transferência de renda do governo” não contém dados do Estado de São Paulo (SP). Quanto a variável “Terapia antirretroviral durante o tratamento da TB”, os dados do estado de SP foram inseridos a partir do seg
+ Não é possível calcular indicadores relacionados aos contatos de tuberculose.
+ Em 2014, foram incluídas as seguintes variáveis no Sinan-Net (Tuberculose): populações especiais (população privada de liberdade, população em situação de rua, profissional de saúde e imigrante), doenças e agravos associados (uso de drogas ilícitas
+ A variável “institucionalizado” foi descontinuada em 2015. Portanto, para análise referente à população privada de liberdade após esse período, utilizar a variável “PPL” (população privada de liberdade).
+ Para informações detalhadas sobre o Sinan-Tuberculose e sobre as análises de indicadores epidemiológicos e operacionais da tuberculose, acessar o link: http://portalsinan.saude.gov.br/tuberculose
+ Em caso de dúvidas, encaminhar e-mail para: tuberculose@saude.gov.br
+ Dados de 2001 a 2016 estão finalizados.
+ Dados de 2017 a 2020 atualizados em 02/2021, sujeitos à revisão.
+ Dados de 2020 referentes ao estado do Espírito Santo são oriundos do Sistema de Informação e-SUS VS, em uso pelo estado desde janeiro de 2020. Variáveis de acompanhamento e encerramento são indisponíveis nesse sistema.
+ Dados disponibilizados no TABNET em 04/2021, após homologação da Coordenação Geral de Vigilância das Doenças de Transmissão Respiratória de Condições Crônicas/DCCI/SVS.
+ 
